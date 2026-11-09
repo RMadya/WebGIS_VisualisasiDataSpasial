@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Alun-Alun Magetan",
+        "jenis": "Ruang Terbuka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.32821, -7.65613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid Agung Magetan",
+        "jenis": "Tempat Ibadah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.32719, -7.65610]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUD Dr. Sayidiman",
+        "jenis": "Kesehatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.33609597469486, -7.652400420843242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Pasar Besar Magetan",
+        "jenis": "Perdagangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3282843669888, -7.653678925844579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kantor Bupati Magetan",
+        "jenis": "Pemerintahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3295206532783, -7.656423610239831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMA Negeri 1 Magetan",
+        "jenis": "Pendidikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.31661, -7.65515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Telaga Sarangan",
+        "jenis": "Wisata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.21832, -7.67776]
+      }
+    }
+  ]
+}
