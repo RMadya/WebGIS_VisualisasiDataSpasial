@@ -51,13 +51,13 @@ Titik fasilitas umum yang terdaftar dan ditampilkan pada peta:
 
 | No | Nama Fasilitas | Kategori / Jenis | Longitude (Bujur) | Latitude (Lintang) |
 |:--:|:---|:---|:---:|:---:|
-| 1 | **Alun-Alun Magetan** | Ruang Terbuka | `111.3592` | `-7.6464` |
-| 2 | **Masjid Agung Magetan** | Tempat Ibadah | `111.3580` | `-7.6455` |
-| 3 | **RSUD Dr. Sayidiman** | Kesehatan | `111.3545` | `-7.6440` |
-| 4 | **Pasar Besar Magetan** | Perdagangan | `111.3610` | `-7.6475` |
-| 5 | **Kantor Bupati Magetan** | Pemerintahan | `111.3570` | `-7.6490` |
-| 6 | **SMA Negeri 1 Magetan** | Pendidikan | `111.3530` | `-7.6510` |
-| 7 | **Telaga Sarangan** | Wisata | `111.2275` | `-7.6780` |
+| 1 | **Alun-Alun Magetan** | Ruang Terbuka | `111.32821` | `7.65613` |
+| 2 | **Masjid Agung Magetan** | Tempat Ibadah | `111.32719` | `-7.65610` |
+| 3 | **RSUD Dr. Sayidiman** | Kesehatan | `111.33609597469486` | `-7.652400420843242` |
+| 4 | **Pasar Besar Magetan** | Perdagangan | `111.32960` | `-7.65350` |
+| 5 | **Kantor Bupati Magetan** | Pemerintahan | `111.3295206532783` | `-7.656423610239831` |
+| 6 | **SMA Negeri 1 Magetan** | Pendidikan | `111.31661` | `-7.65515` |
+| 7 | **Telaga Sarangan** | Wisata | `111.21832` | `-7.67776` |
 
 ---
 
