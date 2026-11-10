@@ -8,8 +8,14 @@ h1 {
     color: navy;
 }
 
+<<<<<<< HEAD
 #peta {
     height: 500px;
+=======
+/* Wajib mengatur tinggi peta */
+#peta {
+    height: 500px; 
+>>>>>>> dff6fb6 (add domentation)
     width: 100%;
     border: 2px solid #ccc;
     border-radius: 8px;
